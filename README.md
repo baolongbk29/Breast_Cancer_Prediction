@@ -5,5 +5,6 @@ This project is started with the goal use machine learning algorithms and learn 
 These are different approaches like:
 
 Logistic Regression
+
 DecisionTree
 
